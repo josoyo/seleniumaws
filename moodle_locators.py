@@ -14,8 +14,8 @@ moodle_add_new_user_page_title = 'SQA: Administration: Users: Accounts: Add a ne
 moodle_users_main_page_url = 'http://52.39.5.126/admin/user.php'
 moodle_users_main_page_title = 'SQA: Administration: Users: Accounts: Browse list of users'
 
-admin_username = 'yusufwiharsoyo'
-admin_password='Moodle!456'
+admin_username = 'tkuser'
+admin_password='Moodle!123'
 
 new_username = fake.user_name()
 new_password = fake.password()
